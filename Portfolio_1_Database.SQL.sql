@@ -1,9 +1,4 @@
 
-\f0\fs24 \cf0 \
--- MIT8103 Advanced Database Systems\
--- Portfolio 1: Database Design and Modelling\
--- PostgreSQL database inspection script\
-\
 -- 1. Inspect all columns in the public schema\
 SELECT\
     table_name,\
